@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Mika</h1>
-<h3 align="center">A student from Georgia, Tbilisi</h3>
+<h3 align="center">A student from Tbilisi, Georgia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=grigoryan-m&label=Profile%20views&color=0e75b6&style=flat" alt="grigoryan-m" /> </p>
 
