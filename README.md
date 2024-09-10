@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Spring**
 
-- 👨‍💻 All of my projects are available at [https://github.com/grigoryan-m?tab=repositories](https://github.com/grigoryan-m?tab=repositories)
+- 👨‍💻 All of my projects are available [here](https://github.com/grigoryan-m?tab=repositories)
 
 - 📫 How to reach me **waldm4rk@gmail.com**
 
