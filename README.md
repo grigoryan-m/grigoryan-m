@@ -7,6 +7,8 @@
 
 - 🌱 I’m currently learning **Spring**
 
+- 🚀 I'm currently working on [Town Game](https://github.com/grigoryan-m/TownGame)
+
 - 👨‍💻 All of my projects are available [here](https://github.com/grigoryan-m?tab=repositories)
 
 - 📫 How to reach me **waldm4rk@gmail.com**
