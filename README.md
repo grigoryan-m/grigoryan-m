@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Spring**
 
-- 🚀 I'm currently working on [Town Game](https://github.com/grigoryan-m/TownGame)
+- 🚀 I'm currently working on [Library REST API](https://github.com/grigoryan-m/library-rest-api)
 
 - 👨‍💻 All of my projects are available [here](https://github.com/grigoryan-m?tab=repositories)
 
