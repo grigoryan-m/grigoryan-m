@@ -3,9 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=grigoryan-m&label=Profile%20views&color=0e75b6&style=flat" alt="grigoryan-m" /> </p>
 
-- 🔨 I’m currently learning [Spring MVC](https://github.com/grigoryan-m/first-mvc-project)
-
-- 🌱 I’m currently learning **Spring**
+- 🔨 I’m currently learning [Spring Security](https://docs.spring.io/spring-security/reference/)
 
 - 🚀 I'm currently working on [Library REST API](https://github.com/grigoryan-m/library-rest-api)
 
