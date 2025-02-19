@@ -5,11 +5,11 @@
 
 - 🔨 I’m currently learning [Spring Security](https://docs.spring.io/spring-security/reference/)
 
-- 🚀 I'm currently working on [Library REST API](https://github.com/grigoryan-m/library-rest-api)
+- 🚀 I'm currently working on Order Management System for a Restaurant
 
 - 👨‍💻 All of my projects are available [here](https://github.com/grigoryan-m?tab=repositories)
 
-- 📫 How to reach me **waldm4rk@gmail.com**
+- 📫 How to reach me: **waldm4rk@gmail.com**
 
 - ⚡ Fun fact: **I am a writer!**
 
