@@ -3,6 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=grigoryan-m&label=Profile%20views&color=0e75b6&style=flat" alt="grigoryan-m" /> </p>
 
+- ✨ Portfolio repositories:  
+  [Pascal's Triangle using Binary Tree](https://github.com/grigoryan-m/PascalTriangle)
+
 - 🔨 I’m currently learning [Spring Security](https://docs.spring.io/spring-security/reference/)
 
 - 🚀 I'm currently working on Order Management System for a Restaurant
