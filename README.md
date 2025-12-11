@@ -8,7 +8,7 @@
 
 - 🔨 I’m currently learning [Spring Security](https://docs.spring.io/spring-security/reference/)
 
-- 🚀 I'm currently working on Order Management System for a Restaurant
+- 🚀 I'm currently working on collaborative horror web-project [Voeemsog](https://voeemsog.com)
 
 - 👨‍💻 All of my projects are available [here](https://github.com/grigoryan-m?tab=repositories)
 
