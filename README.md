@@ -3,18 +3,18 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=grigoryan-m&label=Profile%20views&color=0e75b6&style=flat" alt="grigoryan-m" /> </p>
 
+- 🚀 I'm the backend developer for [Voeemsog](https://voeemsog.com) (Spring boot)
+
 - ✨ Portfolio repositories:  
   [Pascal's Triangle using Binary Tree](https://github.com/grigoryan-m/PascalTriangle)
 
 - 🔨 I’m currently learning [Spring Security](https://docs.spring.io/spring-security/reference/)
 
-- 🚀 I'm currently working on collaborative horror web-project [Voeemsog](https://voeemsog.com)
-
 - 👨‍💻 All of my projects are available [here](https://github.com/grigoryan-m?tab=repositories)
 
 - 📫 How to reach me: **waldm4rk@gmail.com**
 
-- ⚡ Fun fact: **I am a writer!**
+- ⚡ Looking for a job as junior java developer in Tbilisi or remotely
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
